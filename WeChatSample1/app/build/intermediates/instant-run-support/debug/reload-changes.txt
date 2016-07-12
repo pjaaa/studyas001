@@ -1,0 +1,7 @@
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$SavedState$override.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$1$override.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$2$override.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$SavedState$1$override.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$PageListener$override.class
+CHANGED,C:\home\hping2\Personal\2016_Documents\Android\projects\WeChatSample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\astuetz\PagerSlidingTabStrip$override.class
