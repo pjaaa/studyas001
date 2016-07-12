@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 //        scrollToBtn.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View v) {
+//                // both nagatives for right-down direction.
 //                layout.scrollTo(-60, -100);
 //            }
 //        });
