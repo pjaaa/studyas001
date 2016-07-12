@@ -1,0 +1,6 @@
+0dpi ~ 120dpi	ldpi
+120dpi ~ 160dpi	mdpi
+160dpi ~ 240dpi	hdpi
+240dpi ~ 320dpi	xhdpi
+320dpi ~ 480dpi	xxhdpi
+480dpi ~ 640dpi	xxxhdp
