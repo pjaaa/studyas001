@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_bad7ed112dfa0834efa1b34f3c2699c469f051ad.jar" />
+    </item>
+    <item
+        jar="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_eb7aed1009a58e223e37bc5c91906bfbe9bf8ec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\hping2\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_c4403368e86de4b381cf633a6e1717aa9cccd009.jar" />
+    </item>
+    <item
+        jar="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_abcac75b41df16f5d66af625cee21ef003396030.jar" />
+    </item>
+    <item
+        jar="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_f835274aaa33dc9b8a1270174fe660cd41ffb7a6.jar" />
+    </item>
+    <item
+        jar="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\home\hping2\Personal\2016_Documents\Android\projects\android-SwipeRefreshListFragment-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.3.0_c6e5633915981525bb6adf32a348d32a2ff3df05.jar" />
+    </item>
+
+</items>

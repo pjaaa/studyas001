@@ -1,8 +1,8 @@
 package com.pingsuccess.a_scroller_001;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
+import android.view.LayoutInflater;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        LayoutInflater.from(this);
 //        layout = (LinearLayout) findViewById(R.id.layout);
 //        scrollToBtn = (Button) findViewById(R.id.scroll_to_btn);
 //        scrollByBtn = (Button) findViewById(R.id.scroll_by_btn);
