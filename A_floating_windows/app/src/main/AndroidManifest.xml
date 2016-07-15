@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".FloatWindowService"></service>
+        <service android:name=".FloatWindowService" />
     </application>
 
 </manifest>
